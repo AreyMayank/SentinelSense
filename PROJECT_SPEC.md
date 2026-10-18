@@ -1,8 +1,8 @@
-# CareVoice Edge: Technical Project Specification
+# SentinelSense: Technical Project Specification
 
 ## 1. Product definition
 
-CareVoice Edge is an ESP32-C3 patient-monitoring and safety prototype.
+SentinelSense is an ESP32-C3 patient-monitoring and safety prototype.
 It collects sensor data, evaluates motion for possible falls, provides
 local feedback, and makes patient data available through a webpage
 hosted by the ESP32 itself.

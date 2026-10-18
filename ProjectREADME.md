@@ -1,8 +1,8 @@
-# CareVoice Edge
+# SentinelSense
 
 ## Purpose
 
-CareVoice Edge is a wearable patient-safety prototype based on the Seeed
+SentinelSense is a wearable patient-safety prototype based on the Seeed
 Studio XIAO ESP32-C3. It reads patient sensors, detects possible falls,
 supports manual SOS, displays local information, provides
 caretaker-configured reminders, and exposes a monitoring dashboard

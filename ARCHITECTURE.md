@@ -1,4 +1,4 @@
-# CareVoice Edge: Firmware and Web Architecture
+# SentinelSense: Firmware and Web Architecture
 
 ## 1. Architecture rule
 

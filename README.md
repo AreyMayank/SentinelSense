@@ -1,4 +1,4 @@
-# 🩺 CareVoice Edge
+# 🩺 SentinelSense
 
 > **A self-contained patient-monitoring and safety prototype built on the Seeed Studio XIAO ESP32-C3.**  
 > Everything — sensors, logic, dashboard, and API — runs directly on the microcontroller. No cloud. No external server. No database.
@@ -7,7 +7,7 @@
 
 ## 📌 What Is This?
 
-**CareVoice Edge** is a wearable patient-safety prototype designed for **at-home or clinical care settings**. It reads biometric sensors, detects potential falls, supports manual SOS alerts, displays real-time readings on an OLED screen, plays audio reminders via a speaker, and serves a **live monitoring dashboard hosted directly by the ESP32**.
+**SentinelSense** is a wearable patient-safety prototype designed for **at-home or clinical care settings**. It reads biometric sensors, detects potential falls, supports manual SOS alerts, displays real-time readings on an OLED screen, plays audio reminders via a speaker, and serves a **live monitoring dashboard hosted directly by the ESP32**.
 
 The core philosophy: the patient and caretaker should not depend on internet connectivity, cloud subscriptions, or external infrastructure for basic safety monitoring.
 
@@ -288,4 +288,4 @@ Fall state machine ────────────────────�
 
 ---
 
-*CareVoice Edge — built for care, designed for the edge.*
+*SentinelSense — built for care, designed for the edge.*

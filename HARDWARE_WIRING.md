@@ -1,4 +1,4 @@
-# CareVoice Edge: Hardware Connections and Electrical Notes
+# SentinelSense: Hardware Connections and Electrical Notes
 
 ## 1. Controller
 

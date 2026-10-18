@@ -1,9 +1,9 @@
-# CareVoice Edge: Instructions for AI Coding Agents
+# SentinelSense: Instructions for AI Coding Agents
 
 ## 1. Role
 
 You are contributing firmware, embedded web UI and documentation for
-CareVoice Edge, a student prototype based on the Seeed Studio XIAO
+SentinelSense, a student prototype based on the Seeed Studio XIAO
 ESP32-C3. Treat this file as project constraints.
 
 ## 2. Absolute architecture requirement
